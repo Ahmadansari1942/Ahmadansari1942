@@ -1,4 +1,3 @@
-
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=Orbitron:wght@400;700;900&display=swap');
 *{box-sizing:border-box;margin:0;padding:0}
@@ -28,7 +27,7 @@ body{background:#080b14;color:#e2e8f0;font-family:'Fira Code',monospace;overflow
 .sp:hover{border-color:#92fe9d;color:#92fe9d}
 .dot{width:6px;height:6px;border-radius:50%}
 .connect-wrap{display:flex;flex-wrap:wrap;gap:10px;justify-content:center}
-.cb{background:#0d1117;border:1px solid;border-radius:8px;padding:7px 16px;font-size:11px;font-family:'Fira Code',monospace;font-weight:600;letter-spacing:1px;cursor:pointer;transition:all .2s;text-decoration:none}
+.cb{background:#0d1117;border:1px solid;border-radius:8px;padding:7px 16px;font-size:11px;font-family:'Fira Code',monospace;font-weight:600;letter-spacing:1px;cursor:pointer;transition:all .2s;text-decoration:none;display:inline-block}
 .tg{border-color:#0088cc;color:#0088cc}.tg:hover{background:#0088cc11}
 .ig{border-color:#e4405f;color:#e4405f}.ig:hover{background:#e4405f11}
 .fb{border-color:#1877f2;color:#1877f2}.fb:hover{background:#1877f211}
