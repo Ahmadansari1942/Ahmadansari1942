@@ -6,15 +6,6 @@
   </a>
 </p>
 
-**How to use the downloaded file:**
-
-1. The file will be saved as `README.md` 
-2. Go to your repository: `github.com/Ahmadansari1942/Ahmadansari1942`
-3. Upload or drag-drop the file into GitHub
-4. Or open GitHub editor and paste the content
-
----
-
 <script>
 function downloadReadme() {
   const content = `<!-- =========================================
