@@ -475,20 +475,6 @@ func main() {
 
 ---
 
-### 📝 License
-
-This README profile is created with ❤️ and is free to use and customize!`;
-
-  const blob = new Blob([content], { type: 'text/markdown' });
-  const url = window.URL.createObjectURL(blob);
-  const a = document.createElement('a');
-  a.href = url;
-  a.download = 'README.md';
-  document.body.appendChild(a);
-  a.click();
-  window.URL.revokeObjectURL(url);
-  document.body.removeChild(a);
-  alert('✅ README.md downloaded successfully! Now upload it to your GitHub profile repository.');
 }
 </script>
 
