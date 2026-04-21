@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="javascript:void(0)" onclick="downloadReadme()">
-    <button style="background: #0066cc; color: white; padding: 12px 30px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; font-weight: bold;">
-
-    </button>
-  </a>
-</p>
-
 <script>
 function downloadReadme() {
   const content = `<!-- =========================================
