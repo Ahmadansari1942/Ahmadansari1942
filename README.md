@@ -666,7 +666,7 @@ func main() {
 
 ### 💌 Get in Touch
 
-📧 **Email:** ahmadshahid.dev@gmail.com  
+📧 **Email:** sn0259152@gmail.com  
 💬 **Telegram:** @Ahmadansari191  
 🌐 **Location:** Multan, Pakistan 🇵🇰  
 
