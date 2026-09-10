@@ -111,6 +111,17 @@ func main() {
 
 ---
 
+<!-- RANDOM DEV QUOTE (auto-changes every time profile is viewed) -->
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
 <!-- QUICK STATS -->
 <h2 align="center"><img src="https://media.giphy.com/media/j2pOGeGpOvzQAlLD4A/giphy.gif" width="40"> Quick Stats</h2>
 
@@ -414,6 +425,69 @@ func main() {
   </a>
 </p>
 
+<br/>
+
+### 🎲 3D Contribution Graph
+
+<!--
+⚠️ NOTE: 3D contribution graph koi live/hotlink-able API nahi hai — ye ek GitHub Action se generate hoti hai jo image aapki repo me save karta hai. Ek dafa setup karne ke baad hamesha auto-update hoti rahegi. Setup steps:
+
+1. Apni repo (Ahmadansari1942/Ahmadansari1942) me ".github/workflows/3d-contrib.yml" naam ki file banayen, is content ke sath:
+
+name: 3D Profile Contribution
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Ahmadansari1942
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Update 3D contribution graph" || exit 0
+          git push
+
+2. Workflow ek dafa run hone k baad ye teen files "profile-3d-contrib/" folder me ban jayengi:
+   profile-night-green.svg, profile-season-green.svg, profile-north-side-green.svg
+
+3. Phir neeche wala img tag automatically kaam karega (abhi ke liye ye placeholder hai jab tak Action run nahi hoti).
+-->
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Ahmadansari1942/Ahmadansari1942/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph"/>
+</p>
+
+<br/>
+
+### 💻 Coding Profile Stats
+
+<!-- ⚠️ Neeche "your-leetcode-username" aur "your-codeforces-handle" ko apne asal username se replace karein -->
+<p align="center">
+  <img height="180em" src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=your-codeforces-handle&theme=dark" alt="Codeforces Stats"/>
+</p>
+
+<br/>
+
+### 🏅 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/Ahmadansari1942?tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8F%85-View_My_Achievements-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Achievements"/>
+  </a>
+</p>
+<p align="center"><sub>GitHub Achievements (Pull Shark, Arctic Code Vault, Quickdraw, etc.) sirf aapke GitHub account page pe hi visible hoti hain — koi third-party service inhe README me hotlink nahi kar sakti, isliye ye button seedha achievements page pe le jata hai.</sub></p>
+
 ---
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
@@ -547,6 +621,35 @@ func main() {
 
 ---
 
+<!-- BLOG POSTS -->
+<h2 align="center"><img src="https://media.giphy.com/media/iY9FD0nwX9DjI/giphy.gif" width="40"> Latest Blog Posts</h2>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center"><sub>⚠️ Ye list khud-b-khud tab bharegi jab aap "gautamkrishnar/blog-post-workflow" GitHub Action apni repo me setup karenge (isse aapke blog/RSS feed ki latest posts yahan auto-add hoti hain). Filhaal ye khaali box hai kyunke koi blog feed connect nahi hui — Action setup karne k baad khud fill ho jayega, koi error nahi ayega.</sub></p>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<!-- VISITOR WORLD MAP -->
+<h2 align="center"><img src="https://media.giphy.com/media/j2pOGeGpOvzQAlLD4A/giphy.gif" width="40"> Visitor Map</h2>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Ahmadansari1942/count.svg" alt="Visitor Count"/>
+</p>
+
+<p align="center"><sub>⚠️ Live world-map (jahan se log visit kar rahe hain wo dikhane wala) sirf ClustrMaps.com jaisi service se milta hai jo aapko free account bana kar ek personal embed-ID deti hai. Free ye us ke bina hotlink nahi ho sakta — filhaal simple visitor counter laga diya hai jo bina kisi account k kaam karta hai. Agar map chahiye: clustrmaps.com pe free sign up karein → apni site ka embed code copy karein → wo yahan paste kar dena, main help kar dunga.</sub></p>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
 <!-- IMPORTANT NOTES -->
 <h2 align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40"> Important Notes</h2>
 
@@ -604,17 +707,15 @@ func main() {
 
 <p><i>🎬 Check out this video from my journey!</i></p>
 
-<a href="https://github.com/Ahmadansari1942/Ahmadansari1942/raw/main/VID-20230203-WA0042.mp4" target="_blank">
+<a href="https://github.com/Ahmadansari1942/Ahmadansari1942/blob/main/VID-20230203-WA0042.mp4" target="_blank">
   <img src="https://img.shields.io/badge/%F0%9F%8E%AC-Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Ahmadansari1942/Ahmadansari1942/blob/main/VID-20230203-WA0042.mp4" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%93%81-View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Ahmadansari1942/Ahmadansari1942/raw/main/VID-20230203-WA0042.mp4" download>
+<a href="https://github.com/Ahmadansari1942/Ahmadansari1942/raw/main/VID-20230203-WA0042.mp4" download="VID-20230203-WA0042.mp4">
   <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F-Download_Video-28C840?style=for-the-badge&logo=download&logoColor=white" alt="Download"/>
 </a>
+
+<p><sub>ℹ️ "Watch Video" button GitHub ke apne player page pe khulega (browser me play hoga). "Download" button seedha file save karega. Pehle wale me dono buttons "raw" link pe the isliye dono download kar rahe thay.</sub></p>
 
 <br/><br/>
 
@@ -635,6 +736,8 @@ func main() {
 </table>
 
 <br/>
+
+<p><b>💬 Video file <code>VID-20230203-WA0042.mp4</code> ko apni <code>Ahmadansari1942/Ahmadansari1942</code> repo ke root me upload karna zaroori hai, warna player kaam nahi karega!</b></p>
 
 </div>
 
