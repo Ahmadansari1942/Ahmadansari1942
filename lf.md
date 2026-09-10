@@ -636,8 +636,6 @@ func main() {
 
 <br/>
 
-<p><b>💬 Video file <code>VID-20230203-WA0042.mp4</code> ko apni <code>Ahmadansari1942/Ahmadansari1942</code> repo ke root me upload karna zaroori hai, warna player kaam nahi karega!</b></p>
-
 </div>
 
 ---
