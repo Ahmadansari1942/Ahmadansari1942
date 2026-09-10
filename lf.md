@@ -31,12 +31,67 @@
 
 </div>
 
+<a name="toc"></a>
+<!-- TABLE OF CONTENTS -->
+<details>
+<summary><b>📑 Table of Contents (click to expand)</b></summary>
+<br/>
+
+- [👋 About Me](#about-me)
+- [🕐 Now / Fun Facts / Currently Reading](#about-me)
+- [💬 Random Dev Quote](#quote)
+- [📊 Quick Stats](#quick-stats)
+- [🤝 Connect With Me](#connect)
+- [🧰 Tech Stack & Tools](#tech-stack)
+- [📈 GitHub Profile Stats](#gh-stats)
+- [🎲 3D Contribution Graph](#3d-contrib)
+- [💻 Coding Profile Stats](#coding-stats)
+- [🏅 GitHub Achievements](#achievements)
+- [🔥 Activity & Contributions](#activity)
+- [🏆 Trophy Gallery / WakaTime / Community / Sponsors](#activity)
+- [🧩 Skills Breakdown](#skills-breakdown)
+- [🗺️ Learning Roadmap](#roadmap)
+- [🎓 Certifications & Courses](#certs)
+- [👋 Hello in Many Languages](#hello)
+- [🖥️ My Dev Environment](#dev-env)
+- [🖼️ Project Screenshots](#gallery)
+- [🏆 Awards & Recognition](#awards)
+- [🎯 2026 Goals](#goals)
+- [🤝 Open to Mentorship](#mentorship)
+- [🐍 Code Philosophy](#snippet)
+- [🎯 Interests & Hobbies](#interests)
+- [🚀 Featured Projects](#projects)
+- [🏷️ Full Badge Wall](#badge-wall)
+- [❓ FAQ](#faq)
+- [💌 Testimonials](#testimonials)
+- [📋 Repository Overview](#repo-overview)
+- [⭐ Star History](#star-history)
+- [📅 Contribution Calendar (More Themes)](#calendar-themes)
+- [🤖 How I Use AI in My Workflow](#ai-workflow)
+- [📢 Announcements](#announcements)
+- [📰 Latest Blog Posts](#blog)
+- [🗺️ Visitor Map](#visitor-map)
+- [📌 Important Notes](#notes)
+- [💖 Support & Appreciation](#support)
+- [🎬 My Video](#video)
+- [🗓️ My Dev Journey](#journey)
+- [🧠 Problem Solving Stats](#problem-solving)
+- [📊 Extended GitHub Metrics](#metrics)
+- [🛠️ Tools I Recommend](#tools-recommend)
+- [💬 Guestbook](#guestbook)
+- [📜 Changelog](#changelog)
+- [📄 License](#license)
+- [👋 Footer / Contact](#footer)
+
+</details>
+
 ---
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
 ---
 
+<a name="about-me"></a>
 <!-- ABOUT ME -->
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me</h2>
 
@@ -103,6 +158,67 @@ func main() {
 
 > 💡 **I'm a passionate student developer** from Multan, Pakistan 🇵🇰 — building amazing web apps, exploring Python, and contributing to open source. Let's connect and create something incredible together!
 
+<br/>
+
+### 🕐 Now
+
+<div align="center">
+
+| | |
+|---|---|
+| 🏙️ **Based in** | Multan, Punjab, Pakistan 🇵🇰 |
+| 🎓 **Currently** | Studying + building web projects |
+| 🌱 **Learning** | React.js, Node.js & Data Structures |
+| 🤝 **Looking to collaborate on** | Open source web & Python projects |
+| 🗣️ **Ask me about** | HTML, CSS, JavaScript, Python, Git |
+| ⚡ **Fun fact** | I debug faster with chai in hand ☕ |
+
+</div>
+
+<br/>
+
+### 🎯 Fun Facts
+
+<div align="center">
+
+| # | Fun Fact |
+|:---:|:---|
+| 1 | ☕ Chai without code review doesn't count as a break |
+| 2 | 🌙 Best code ideas come at night |
+| 3 | 📖 I read documentation for fun, not just when stuck |
+| 4 | 🐍 First language I learned was Python |
+| 5 | 🔁 I rewrite old projects when I learn something new |
+| 6 | 🎧 Music helps me focus while coding |
+| 7 | 🧩 I enjoy solving small automation problems |
+| 8 | 🗂️ I keep notes on everything I learn |
+
+</div>
+
+<br/>
+
+### 📚 Currently Reading / Studying
+
+<div align="center">
+
+| Resource | Type | Status |
+|:---|:---:|:---:|
+| Eloquent JavaScript | Book | 🟡 In Progress |
+| Python Crash Course | Book | ✅ Completed |
+| MDN Web Docs | Documentation | 🔄 Ongoing |
+| freeCodeCamp Curriculum | Course | 🟡 In Progress |
+
+</div>
+
+<br/>
+
+### 🏢 Organizations
+
+<div align="center">
+
+<sub>Filhaal kisi organization ka member nahi hoon — jaise hi kisi open-source org ya team se juduga, yahan badge add ho jayega.</sub>
+
+</div>
+
 </div>
 
 ---
@@ -111,6 +227,7 @@ func main() {
 
 ---
 
+<a name="quote"></a>
 <!-- RANDOM DEV QUOTE (auto-changes every time profile is viewed) -->
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
@@ -122,6 +239,7 @@ func main() {
 
 ---
 
+<a name="quick-stats"></a>
 <!-- QUICK STATS -->
 <h2 align="center"><img src="https://media.giphy.com/media/j2pOGeGpOvzQAlLD4A/giphy.gif" width="40"> Quick Stats</h2>
 
@@ -137,6 +255,13 @@ func main() {
 | ⚡ Fun Fact | I love reading docs & building projects! |
 | 🔥 Passion | Open Source & Innovation |
 | 🎮 Hobbies | Coding, Reading, Building |
+| 🗓️ Coding Since | 2023 |
+| 🧭 Timezone | PKT (UTC+5) |
+| 🖥️ Primary OS | Windows / Linux |
+| 📱 Reachable On | Telegram, Gmail |
+| 🧑‍🎓 Education | Currently a student |
+| 🎯 Short-term Goal | Land first internship/freelance gig |
+| 🚀 Long-term Goal | Become a full-stack developer |
 
 </div>
 
@@ -159,6 +284,7 @@ func main() {
 
 ---
 
+<a name="connect"></a>
 <!-- CONNECT WITH ME -->
 <h2 align="center"><img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50"> Connect With Me</h2>
 
@@ -209,6 +335,7 @@ func main() {
 
 ---
 
+<a name="tech-stack"></a>
 <!-- TECH STACK -->
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack & Tools</h2>
 
@@ -349,12 +476,75 @@ func main() {
 </tr>
 </table>
 
+### 🧪 Testing & Quality
+
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=jest" width="65" height="65" alt="Jest"/>
+  <br><sub><b>Jest</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=cypress" width="65" height="65" alt="Cypress"/>
+  <br><sub><b>Cypress</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=eslint" width="65" height="65" alt="ESLint"/>
+  <br><sub><b>ESLint</b></sub>
+</td>
+</tr>
+</table>
+
+### ☁️ Cloud & Hosting
+
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS"/>
+  <br><sub><b>AWS</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify"/>
+  <br><sub><b>Netlify</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=heroku" width="65" height="65" alt="Heroku"/>
+  <br><sub><b>Heroku</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="65" height="65" alt="Cloudflare"/>
+  <br><sub><b>Cloudflare</b></sub>
+</td>
+</tr>
+</table>
+
+### 🤖 AI / ML Curiosity
+
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow"/>
+  <br><sub><b>TensorFlow</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch"/>
+  <br><sub><b>PyTorch</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=opencv" width="65" height="65" alt="OpenCV"/>
+  <br><sub><b>OpenCV</b></sub>
+</td>
+</tr>
+</table>
+<p><sub>🌱 In AI/ML tools ko explore karna shuru kiya hai — abhi expert level nahi, lekin curiosity se seekh raha hoon.</sub></p>
+
 ---
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
 ---
 
+<a name="gh-stats"></a>
 <!-- GITHUB STATS -->
 <h2 align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Profile Stats</h2>
 
@@ -427,6 +617,7 @@ func main() {
 
 <br/>
 
+<a name="3d-contrib"></a>
 ### 🎲 3D Contribution Graph
 
 <!--
@@ -467,6 +658,7 @@ jobs:
 
 <br/>
 
+<a name="coding-stats"></a>
 ### 💻 Coding Profile Stats
 
 <!-- ⚠️ Neeche "your-leetcode-username" aur "your-codeforces-handle" ko apne asal username se replace karein -->
@@ -479,6 +671,7 @@ jobs:
 
 <br/>
 
+<a name="achievements"></a>
 ### 🏅 GitHub Achievements
 
 <p align="center">
@@ -494,6 +687,7 @@ jobs:
 
 ---
 
+<a name="activity"></a>
 <!-- ACTIVITY & CONTRIBUTIONS -->
 <h2 align="center"><img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="40"> Activity & Contributions</h2>
 
@@ -516,12 +710,96 @@ jobs:
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Ahmadansari1942">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api?username=Ahmadansari1942&theme=dracula&hide_border=true&show_icons=true" alt="Dracula Stats"/>
+    <img width="32%" src="https://github-readme-stats.vercel.app/api?username=Ahmadansari1942&theme=nord&hide_border=true&show_icons=true" alt="Nord Stats"/>
+    <img width="32%" src="https://github-readme-stats.vercel.app/api?username=Ahmadansari1942&theme=github_dark&hide_border=true&show_icons=true" alt="Dark Stats"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Ahmadansari1942">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api?username=Ahmadansari1942&theme=synthwave&hide_border=true&show_icons=true" alt="Synthwave Stats"/>
+    <img width="32%" src="https://github-readme-stats.vercel.app/api?username=Ahmadansari1942&theme=cobalt&hide_border=true&show_icons=true" alt="Cobalt Stats"/>
+    <img width="32%" src="https://github-readme-stats.vercel.app/api?username=Ahmadansari1942&theme=onedark&hide_border=true&show_icons=true" alt="OneDark Stats"/>
+  </a>
+</p>
+
+<br/>
+
+### 🏆 Trophy Gallery (Multiple Themes)
+
+<p align="center">
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Ahmadansari1942&theme=onedark&no-frame=true&column=4&margin-w=4&margin-h=4" alt="Trophies OneDark"/>
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Ahmadansari1942&theme=algolia&no-frame=true&column=4&margin-w=4&margin-h=4" alt="Trophies Algolia"/>
+</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Ahmadansari1942&theme=dracula&no-frame=true&column=4&margin-w=4&margin-h=4" alt="Trophies Dracula"/>
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Ahmadansari1942&theme=gruvbox&no-frame=true&column=4&margin-w=4&margin-h=4" alt="Trophies Gruvbox"/>
+</p>
+
+<br/>
+
+### ⏱️ Weekly Coding Activity (WakaTime)
+
+<!--
+⚠️ Ye WakaTime extension VS Code me install karke free account banane se kaam karta hai:
+1. wakatime.com pe free account banayen
+2. VS Code me "WakaTime" extension install karke apni API key daal dein
+3. Phir "matchai/waka-readme-stats" GitHub Action apni repo me setup karein taake ye chart README me khud update hota rahe
+-->
+
+```text
+Python       12 hrs 30 mins  ████████████░░░░░░░░   58.4%
+JavaScript    5 hrs 10 mins  █████░░░░░░░░░░░░░░░   24.1%
+HTML/CSS      2 hrs 15 mins  ██░░░░░░░░░░░░░░░░░░   10.5%
+Markdown      1 hr 30 mins   █░░░░░░░░░░░░░░░░░░░    7.0%
+```
+<sub>📌 Ye sample data hai — WakaTime setup karne ke baad ye asal coding hours se auto-update hoga.</sub>
+
+<br/>
+
+### 🌐 Community & Coding Platforms
+
+<p align="center">
+  <a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://codeforces.com/" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.codewars.com/" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/></a>
+  <a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="https://medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://hashnode.com/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
+<p><sub>📌 In sab platforms pe abhi profile links generic hain — jahan jahan aapke account bane hue hain, un links ko apne profile URL se replace kar dena.</sub></p>
+
+<br/>
+
+### 💖 Sponsors & Backers
+
+<div align="center">
+
+<sub>Filhaal koi sponsor nahi hai — agar koi is profile ko support karna chahe to upar "Sponsor Me" button use kar sakta hai. Sponsors yahan list ho jayenge.</sub>
+
+| Sponsor | Since |
+|:---:|:---:|
+| _Be the first!_ | — |
+
+</div>
+
 ---
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
 ---
 
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="skills-breakdown"></a>
 <!-- SKILLS BREAKDOWN -->
 <h2 align="center"><img src="https://media.giphy.com/media/iY9FD0nwX9DjI/giphy.gif" width="40"> Skills Breakdown</h2>
 
@@ -541,6 +819,13 @@ jobs:
 | **Node.js** | ⭐⭐ | Backend, APIs, Express |
 | **Git** | ⭐⭐⭐ | Version control, Branching, Collaboration |
 | **Bash** | ⭐⭐ | Scripting, Automation, Linux commands |
+| **TypeScript** | ⭐⭐ | Type-safe JS, learning gradually |
+| **MongoDB** | ⭐⭐ | NoSQL basics, CRUD operations |
+| **MySQL** | ⭐⭐ | Relational DB queries, joins |
+| **Docker** | ⭐ | Basic containers, still learning |
+| **Figma** | ⭐⭐ | UI mockups, design handoff |
+| **Linux (CLI)** | ⭐⭐ | Navigation, permissions, package management |
+| **Testing (Jest)** | ⭐ | Basic unit testing concepts |
 
 </details>
 
@@ -566,6 +851,299 @@ jobs:
 
 ---
 
+<a name="roadmap"></a>
+<!-- LEARNING ROADMAP -->
+<h2 align="center"><img src="https://media.giphy.com/media/iY9FD0nwX9DjI/giphy.gif" width="40"> Learning Roadmap</h2>
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[HTML/CSS Basics] --> B[JavaScript Fundamentals]
+    B --> C[Git & GitHub]
+    C --> D[Python Programming]
+    D --> E[React.js]
+    E --> F[Node.js & Express]
+    F --> G[MongoDB / MySQL]
+    G --> H[REST APIs]
+    H --> I[Full Stack Projects]
+    I --> J[Open Source Contribution]
+    J --> K[DevOps Basics]
+    K --> L[Advanced System Design]
+    style A fill:#00d9ff,stroke:#333,stroke-width:1px,color:#000
+    style L fill:#28C840,stroke:#333,stroke-width:1px,color:#000
+```
+
+| Stage | Topic | Status |
+|:---:|:---|:---:|
+| 01 | HTML5 & CSS3 Fundamentals | ✅ Completed |
+| 02 | JavaScript (ES6+) | ✅ Completed |
+| 03 | Git & GitHub Workflow | ✅ Completed |
+| 04 | Python Programming | ✅ Completed |
+| 05 | Data Structures & Algorithms | 🟡 In Progress |
+| 06 | React.js & Hooks | 🟡 In Progress |
+| 07 | Node.js & Express.js | 🟡 In Progress |
+| 08 | Databases (MongoDB / MySQL) | 🟡 In Progress |
+| 09 | REST API Design | ⬜ Planned |
+| 10 | Authentication & Security | ⬜ Planned |
+| 11 | Testing (Jest / Mocha) | ⬜ Planned |
+| 12 | Docker & Containers | ⬜ Planned |
+| 13 | CI/CD Pipelines | ⬜ Planned |
+| 14 | Cloud Deployment (AWS/Vercel) | ⬜ Planned |
+| 15 | System Design Basics | ⬜ Planned |
+| 16 | Open Source Contribution | 🟡 In Progress |
+| 17 | Contributing to Big Projects | ⬜ Planned |
+| 18 | Mentoring Others | ⬜ Planned |
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="certs"></a>
+<!-- CERTIFICATIONS -->
+<h2 align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40"> Certifications & Courses</h2>
+
+<div align="center">
+
+| 🎓 Certificate / Course | 🏢 Provider | 📅 Status |
+|:---|:---:|:---:|
+| Python for Everybody | Coursera | ✅ |
+| Responsive Web Design | freeCodeCamp | ✅ |
+| JavaScript Algorithms & Data Structures | freeCodeCamp | ✅ |
+| Git & GitHub Complete Guide | Udemy | ✅ |
+| React JS - The Complete Guide | Udemy | 🟡 In Progress |
+| Node.js API Masterclass | Udemy | 🟡 In Progress |
+| SQL for Data Science | Coursera | ⬜ Planned |
+| Docker & Kubernetes Basics | Udemy | ⬜ Planned |
+| AWS Cloud Practitioner | AWS Skill Builder | ⬜ Planned |
+| CS50: Intro to Computer Science | Harvard (edX) | ⬜ Planned |
+
+<sub>📌 Note: Ye table manually update karni hoti hai jab bhi koi naya certificate complete ho — koi live API certificates ko automatically track nahi karti.</sub>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="hello"></a>
+<!-- MULTILINGUAL GREETING -->
+<h2 align="center"><img src="https://media.giphy.com/media/iY9FD0nwX9DjI/giphy.gif" width="40"> Hello, Salam, Bonjour 👋</h2>
+
+<div align="center">
+
+| Language | Greeting |
+|:---|:---|
+| 🇬🇧 English | Hello, I'm Ahmad! |
+| 🇵🇰 Urdu | السلام علیکم، میں احمد ہوں! |
+| 🇸🇦 Arabic | مرحبا, أنا أحمد! |
+| 🇫🇷 French | Bonjour, je suis Ahmad! |
+| 🇪🇸 Spanish | Hola, soy Ahmad! |
+| 🇩🇪 German | Hallo, ich bin Ahmad! |
+| 🇮🇳 Hindi | नमस्ते, मैं अहमद हूँ! |
+| 🇨🇳 Chinese | 你好，我是艾哈迈德! |
+| 🇯🇵 Japanese | こんにちは、アハマドです! |
+| 🇷🇺 Russian | Привет, я Ахмад! |
+| 🇹🇷 Turkish | Merhaba, ben Ahmad! |
+| 🇮🇩 Indonesian | Halo, saya Ahmad! |
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="dev-env"></a>
+<!-- DEV ENVIRONMENT -->
+<h2 align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40"> My Dev Environment</h2>
+
+<div align="center">
+
+| Setup | Choice |
+|:---|:---|
+| 💻 OS | Windows / Linux (dual usage) |
+| 🖊️ Editor | VS Code |
+| 🎨 Editor Theme | Dark themes (Radical / One Dark) |
+| 🔤 Font | Fira Code (with ligatures) |
+| 🖥️ Terminal | Windows Terminal / Bash |
+| 🌐 Browser | Google Chrome |
+| 📦 Package Manager | npm / pip |
+| 🗂️ Note-taking | Notion |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,chrome,figma,notion" alt="dev environment icons"/>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="gallery"></a>
+<!-- SCREENSHOTS GALLERY -->
+<h2 align="center"><img src="https://media.giphy.com/media/j2pOGeGpOvzQAlLD4A/giphy.gif" width="40"> Project Screenshots</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://via.placeholder.com/300x180/0d1117/00d9ff?text=Project+1" width="100%"/>
+<br/><sub><b>Portfolio Website</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://via.placeholder.com/300x180/0d1117/00d9ff?text=Project+2" width="100%"/>
+<br/><sub><b>Task Manager App</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://via.placeholder.com/300x180/0d1117/00d9ff?text=Project+3" width="100%"/>
+<br/><sub><b>REST API Demo</b></sub>
+</td>
+</tr>
+</table>
+
+<sub>📌 In placeholder screenshots ko apne asal project screenshots se replace kar dena (image file repo me upload karke uska raw link yahan lagana).</sub>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="awards"></a>
+<!-- AWARDS & RECOGNITION -->
+<h2 align="center"><img src="https://media.giphy.com/media/3oz8xIsloV320wMOA0/giphy.gif" width="40"> Awards & Recognition</h2>
+
+<div align="center">
+
+| 🏆 Award / Recognition | 🗓️ Year | 🏢 Given By |
+|:---|:---:|:---:|
+| _No awards yet — add yours here!_ | — | — |
+
+<sub>Jaise hi koi hackathon jeeto ya koi certificate/award milay, is table me add kar dena.</sub>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="goals"></a>
+<!-- 2026 GOALS -->
+<h2 align="center"><img src="https://media.giphy.com/media/iY9FD0nwX9DjI/giphy.gif" width="40"> 2026 Goals</h2>
+
+<div align="center">
+
+- [x] Learn Python fundamentals
+- [x] Learn Git & GitHub
+- [x] Build 3+ frontend projects
+- [ ] Master React.js & Hooks
+- [ ] Build a full-stack MERN project
+- [ ] Contribute to 5 open-source repositories
+- [ ] Learn Docker basics
+- [ ] Solve 100+ DSA problems
+- [ ] Get first freelance/internship opportunity
+- [ ] Publish first technical blog post
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="motivation"></a>
+<!-- MOTIVATION BOARD -->
+<h2 align="center"><img src="https://media.giphy.com/media/3oz8xIsloV320wMOA0/giphy.gif" width="40"> Motivation Board</h2>
+
+<div align="center">
+
+| 💭 Personal Reminder |
+|:---|
+| "Progress, not perfection." |
+| "One commit at a time." |
+| "Errors are just clues, not dead ends." |
+| "Consistency beats motivation." |
+| "Ship it, then improve it." |
+| "Every expert was once a beginner." |
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="mentorship"></a>
+<!-- MENTORSHIP -->
+<h2 align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40"> Open to Mentorship</h2>
+
+<div align="center">
+
+<p>🤝 Agar aap web development ya Python seekhne wale beginner hain aur kisi cheez me stuck hain, mujhe Telegram ya Email pe bila jhijhak message kar sakte hain. Jitna mumkin ho sake help karne ki koshish karunga.</p>
+
+<a href="https://t.me/Ahmadansari191" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-Ask_a_Question-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Ask on Telegram"/>
+</a>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="snippet"></a>
+<!-- CODE SNIPPET OF THE DAY -->
+<h2 align="center"><img src="https://media.giphy.com/media/iY9FD0nwX9DjI/giphy.gif" width="40"> Code Philosophy</h2>
+
+<div align="center">
+
+```python
+def code_philosophy():
+    principles = [
+        "Write code for humans first, computers second",
+        "Simple > Clever",
+        "Read the docs before Stack Overflow",
+        "Commit small, commit often",
+        "Test before you trust",
+        "Keep learning, keep building",
+    ]
+    for principle in principles:
+        print(f"→ {principle}")
+
+code_philosophy()
+```
+
+<sub>💡 Ye chhoti si philosophy hai jo mujhe code likhte waqt guide karti hai.</sub>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="interests"></a>
 <!-- INTERESTS -->
 <h2 align="center"><img src="https://media.giphy.com/media/J5B1ojeDMTy9AWaeVf/giphy.gif" width="40"> Interests & Hobbies</h2>
 
@@ -590,6 +1168,7 @@ jobs:
 
 ---
 
+<a name="projects"></a>
 <!-- PROJECTS -->
 <h2 align="center"><img src="https://media.giphy.com/media/TL2Vc4JUvaJlZ2htVe/giphy.gif" width="40"> Featured Projects</h2>
 
@@ -613,6 +1192,97 @@ jobs:
   </a>
 </p>
 
+<br/>
+
+### 📌 Pinned Repositories (Live)
+
+<p align="center">
+  <a href="https://github.com/Ahmadansari1942/repo-one">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmadansari1942&repo=repo-one&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/Ahmadansari1942/repo-two">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmadansari1942&repo=repo-two&theme=radical&hide_border=true" />
+  </a>
+</p>
+<p><sub>⚠️ Upar "repo-one" aur "repo-two" ki jagah apni asal repository names likh dena, tabhi ye pin cards data dikhayenge (abhi placeholder hain).</sub></p>
+
+<br/>
+
+### 🗂️ Detailed Project Showcase
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🌐 Project 1 — Portfolio Website**
+
+Personal portfolio site banayi gayi HTML, CSS aur JavaScript se, jisme responsive design aur smooth scroll animations hain.
+
+`HTML` `CSS` `JavaScript`
+
+- ✅ Fully responsive (mobile/tablet/desktop)
+- ✅ Dark/Light mode toggle
+- ✅ Contact form integration
+- ✅ SEO optimized
+
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/Ahmadansari1942)
+
+</td>
+<td width="50%" valign="top">
+
+**🐍 Project 2 — Python Automation Scripts**
+
+Rozana ke kaam automate karne ke liye chhoti chhoti Python scripts ka collection (file organizer, web scraper, etc).
+
+`Python` `Automation` `CLI`
+
+- ✅ File organizer script
+- ✅ Simple web scraper
+- ✅ CLI-based task reminder
+- 🟡 More scripts coming soon
+
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/Ahmadansari1942)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⚛️ Project 3 — React Task Manager**
+
+React hooks aur local state management use karke banaya gaya simple task/todo manager app.
+
+`React` `JavaScript` `CSS`
+
+- ✅ Add / edit / delete tasks
+- ✅ Mark complete / incomplete
+- ✅ LocalStorage persistence
+- 🟡 Drag-and-drop reordering (in progress)
+
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/Ahmadansari1942)
+
+</td>
+<td width="50%" valign="top">
+
+**🔗 Project 4 — REST API with Node.js**
+
+Express.js aur MongoDB use karke banayi gayi ek simple CRUD REST API, Postman se test ki gayi.
+
+`Node.js` `Express` `MongoDB`
+
+- ✅ CRUD endpoints
+- ✅ Input validation
+- 🟡 JWT authentication (in progress)
+- ⬜ Rate limiting (planned)
+
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/Ahmadansari1942)
+
+</td>
+</tr>
+</table>
+
+<p><sub>📌 Note: Upar project descriptions template ki tarah likhi gayi hain — inko apni asal repos ke naam, links aur features se update kar dena.</sub></p>
+
 </div>
 
 ---
@@ -621,6 +1291,248 @@ jobs:
 
 ---
 
+<a name="badge-wall"></a>
+<!-- FULL BADGE WALL -->
+<h2 align="center"><img src="https://media.giphy.com/media/iY9FD0nwX9DjI/giphy.gif" width="40"> Full Badge Wall</h2>
+
+<div align="center">
+
+<sub>🎯 Programming Languages</sub><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<br/><br/>
+
+<sub>🚀 Frameworks & Libraries</sub><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+
+<br/><br/>
+
+<sub>🗄️ Databases</sub><br/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+<br/><br/>
+
+<sub>☁️ Cloud, DevOps & Tools</sub><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<br/><br/>
+
+<sub>🎨 Design & Productivity</sub><br/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="faq"></a>
+<!-- FAQ -->
+<h2 align="center"><img src="https://media.giphy.com/media/j2pOGeGpOvzQAlLD4A/giphy.gif" width="40"> Frequently Asked Questions</h2>
+
+<div align="center">
+
+<details>
+<summary><b>💬 Aap kaunsi technologies pe kaam karte hain?</b></summary>
+<br/>
+Main mainly Python aur JavaScript/web development pe focus karta hoon — HTML, CSS, React aur Node.js ke sath.
+</details>
+
+<details>
+<summary><b>💬 Kya aap freelance/collaboration ke liye available hain?</b></summary>
+<br/>
+Ji haan! Main open source projects aur interesting collaborations ke liye hamesha open hoon. Telegram ya Email pe contact kar sakte hain.
+</details>
+
+<details>
+<summary><b>💬 Aap kaise seekhte hain naye tools?</b></summary>
+<br/>
+Docs padh kar, chhote practice projects bana kar, aur YouTube/Udemy courses follow kar ke.
+</details>
+
+<details>
+<summary><b>💬 Kya aap beginners ki help karte hain?</b></summary>
+<br/>
+Zaroor! Agar koi beginner stuck hai to Telegram pe message kar sakta hai, jitna ho sake help karne ki koshish karta hoon.
+</details>
+
+<details>
+<summary><b>💬 Aapka favorite programming language konsa hai?</b></summary>
+<br/>
+Python — simplicity aur versatility ki wajah se, lekin JavaScript bhi bohot pasand hai web ke liye.
+</details>
+
+<details>
+<summary><b>💬 Aap konsa code editor use karte hain?</b></summary>
+<br/>
+VS Code — extensions aur customization ki wajah se mera favorite hai.
+</details>
+
+<details>
+<summary><b>💬 Kya aap open source me contribute karte hain?</b></summary>
+<br/>
+Ji haan, chhote chhote issues aur documentation improvements se shuru kiya hai aur seekhta rehta hoon.
+</details>
+
+<details>
+<summary><b>💬 Aap kis university/college me parhte hain?</b></summary>
+<br/>
+Filhaal Multan me apni studies ke sath-sath self-taught web development aur Python seekh raha hoon.
+</details>
+
+<details>
+<summary><b>💬 Kya aap paid courses ya sirf free resources use karte hain?</b></summary>
+<br/>
+Dono — jahan free resources (freeCodeCamp, MDN, YouTube) mil jayen wahan wo use karta hoon, aur kabhi kabhi paid Udemy courses bhi lete hain deep topics ke liye.
+</details>
+
+<details>
+<summary><b>💬 Aap ek din me kitna time coding ko dete hain?</b></summary>
+<br/>
+Roughly 2-4 ghante roz, studies ke schedule ke hisab se kam-zyada hota rehta hai.
+</details>
+
+<details>
+<summary><b>💬 Aapka long-term career goal kya hai?</b></summary>
+<br/>
+Ek skilled full-stack developer banna aur eventually apne khud ke products/projects launch karna.
+</details>
+
+<details>
+<summary><b>💬 Kya aap remote internship ke liye apply karte hain?</b></summary>
+<br/>
+Ji haan, remote internships aur entry-level opportunities ke liye hamesha dhoondta rehta hoon.
+</details>
+
+<details>
+<summary><b>💬 Is README ko kaise banaya gaya hai?</b></summary>
+<br/>
+Markdown + HTML ka combination use karke, badges shields.io se, stats github-readme-stats jaisi open-source services se liye gaye hain.
+</details>
+
+<details>
+<summary><b>💬 Kya main is README template ko copy kar sakta hoon?</b></summary>
+<br/>
+Bilkul! Ye MIT license ke tehat share ki gayi hai (neeche License section dekhein) — bas apni info se update kar lena.
+</details>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="testimonials"></a>
+<!-- TESTIMONIALS -->
+<h2 align="center"><img src="https://media.giphy.com/media/3oz8xIsloV320wMOA0/giphy.gif" width="40"> Testimonials</h2>
+
+<div align="center">
+
+> 💬 *"Ahmad is a fast learner and always eager to help others in the community."*  
+> — **Placeholder Name**, Fellow Developer
+
+> 💬 *"Great collaborator, clean code, and always meets deadlines."*  
+> — **Placeholder Name**, Project Teammate
+
+> 💬 *"Very responsive and open to feedback — a pleasure to work with."*  
+> — **Placeholder Name**, Open Source Maintainer
+
+> 💬 *"Explains concepts clearly and is patient with beginners."*  
+> — **Placeholder Name**, Student Peer
+
+> 💬 *"Reliable teammate who always follows through on commitments."*  
+> — **Placeholder Name**, Hackathon Partner
+
+<sub>📌 Note: Ye testimonials sample/placeholder hain — inko asal logon ke real quotes se replace kar dena jab kisi ne aapke bare me feedback diya ho.</sub>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="repo-overview"></a>
+<!-- REPOSITORY OVERVIEW -->
+<h2 align="center"><img src="https://media.giphy.com/media/iY9FD0nwX9DjI/giphy.gif" width="40"> Repository Overview</h2>
+
+<div align="center">
+
+| # | Repository | Primary Language | Description |
+|:---:|:---|:---:|:---|
+| 1 | portfolio-website | HTML/CSS/JS | Personal portfolio site |
+| 2 | python-automation-scripts | Python | Small daily-use automation scripts |
+| 3 | react-task-manager | JavaScript | Simple task/todo manager built in React |
+| 4 | node-rest-api | JavaScript | CRUD REST API using Express & MongoDB |
+| 5 | learning-notes | Markdown | Personal notes from courses & docs |
+| 6 | Ahmadansari1942 | Markdown | This profile README repository |
+
+<sub>📌 Ye placeholder repo names hain — apni asal repository names se yahan update kar dena, ye sirf ek template table hai.</sub>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="star-history"></a>
+<!-- STAR HISTORY -->
+<h2 align="center"><img src="https://media.giphy.com/media/iY9FD0nwX9DjI/giphy.gif" width="40"> Star History</h2>
+
+<div align="center">
+
+<!-- ⚠️ "repo-one" ki jagah apni asal repo daal dena -->
+<a href="https://star-history.com/#Ahmadansari1942/repo-one&Date">
+  <img src="https://api.star-history.com/svg?repos=Ahmadansari1942/repo-one&type=Date" alt="Star History Chart" width="80%"/>
+</a>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="blog"></a>
 <!-- BLOG POSTS -->
 <h2 align="center"><img src="https://media.giphy.com/media/iY9FD0nwX9DjI/giphy.gif" width="40"> Latest Blog Posts</h2>
 
@@ -635,6 +1547,7 @@ jobs:
 
 ---
 
+<a name="visitor-map"></a>
 <!-- VISITOR WORLD MAP -->
 <h2 align="center"><img src="https://media.giphy.com/media/j2pOGeGpOvzQAlLD4A/giphy.gif" width="40"> Visitor Map</h2>
 
@@ -650,6 +1563,7 @@ jobs:
 
 ---
 
+<a name="notes"></a>
 <!-- IMPORTANT NOTES -->
 <h2 align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40"> Important Notes</h2>
 
@@ -673,6 +1587,7 @@ jobs:
 
 ---
 
+<a name="support"></a>
 <!-- SUPPORT BADGES -->
 <h2 align="center"><img src="https://media.giphy.com/media/3oz8xIsloV320wMOA0/giphy.gif" width="40"> Support & Appreciation</h2>
 
@@ -700,6 +1615,7 @@ jobs:
 
 ---
 
+<a name="video"></a>
 <!-- VIDEO SECTION -->
 <h2 align="center"><img src="https://media.giphy.com/media/3oz8xIsloV320wMOA0/giphy.gif" width="40"> My Video</h2>
 
@@ -747,6 +1663,260 @@ jobs:
 
 ---
 
+<a name="journey"></a>
+<!-- DEV JOURNEY TIMELINE -->
+<h2 align="center"><img src="https://media.giphy.com/media/iY9FD0nwX9DjI/giphy.gif" width="40"> My Dev Journey</h2>
+
+```mermaid
+timeline
+    title Ahmad Shahid's Developer Journey
+    2023 : Started learning HTML, CSS & JavaScript
+         : Made first static websites
+    2024 : Learned Python fundamentals
+         : Started using Git & GitHub
+    2025 : Explored React.js & Node.js
+         : Built first full-stack style projects
+    2026 : Deepened DSA & backend skills
+         : Started contributing to open source
+```
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="problem-solving"></a>
+<!-- PROBLEM SOLVING STATS -->
+<h2 align="center"><img src="https://media.giphy.com/media/j2pOGeGpOvzQAlLD4A/giphy.gif" width="40"> Problem Solving Stats</h2>
+
+<div align="center">
+
+| Difficulty | Solved | Total | Progress |
+|:---:|:---:|:---:|:---|
+| 🟢 Easy | 0 | — | ░░░░░░░░░░ |
+| 🟡 Medium | 0 | — | ░░░░░░░░░░ |
+| 🔴 Hard | 0 | — | ░░░░░░░░░░ |
+
+<sub>📌 Ye table LeetCode/Codeforces se manually ya "leetcard.jacoblin.cool" widget (upar Coding Profile Stats section) se update hoti hai — apna username set karne ke baad ye numbers wahan live dikhengi.</sub>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="metrics"></a>
+<!-- GITHUB METRICS -->
+<h2 align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40"> Extended GitHub Metrics (Optional)</h2>
+
+<div align="center">
+
+<sub>⚠️ Ek aur bohot powerful tool hai <code>lowlighter/metrics</code> jo ek hi dashboard-style image me stats, languages, activity, aur bohot kuch combine kar deta hai. Ye bhi GitHub Action se generate hoti hai:</sub>
+
+```yaml
+name: Extended Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_languages: yes
+          plugin_habits: yes
+          plugin_achievements: yes
+```
+
+<sub>Setup ke baad ye image apni repo me generate hogi aur yahan hotlink ho sakegi: <code>https://raw.githubusercontent.com/Ahmadansari1942/Ahmadansari1942/main/metrics.svg</code></sub>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="tools-recommend"></a>
+<!-- RECOMMENDED TOOLS -->
+<h2 align="center"><img src="https://media.giphy.com/media/3oz8xIsloV320wMOA0/giphy.gif" width="40"> Tools I Recommend</h2>
+
+<div align="center">
+
+| Category | Tool | Why |
+|:---|:---|:---|
+| Code Editor | VS Code | Extensions, themes, integrated terminal |
+| Version Control | Git + GitHub | Industry standard, huge community |
+| API Testing | Postman | Easy to test & document APIs |
+| Design | Figma | Free, collaborative, browser-based |
+| Notes | Notion | All-in-one docs, tasks & wiki |
+| Terminal | Windows Terminal / Bash | Fast, customizable |
+| Deployment | Vercel / Netlify | Free, instant deploys for frontend |
+| Learning | freeCodeCamp | Free, structured, project-based |
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="guestbook"></a>
+<!-- GUESTBOOK -->
+<h2 align="center"><img src="https://media.giphy.com/media/iY9FD0nwX9DjI/giphy.gif" width="40"> Guestbook 💬</h2>
+
+<div align="center">
+
+<sub>⚠️ Live comment-box README me sirf "giscus" ya "utterances" (GitHub Discussions/Issues pe based comment widgets) se milta hai — ye bhi ek chhota GitHub-hosted script hota hai jo repo se connect hota hai. Setup steps:</sub>
+
+1. Apni repo me GitHub Discussions enable karein (Settings → Features → Discussions)
+2. [giscus.app](https://giscus.app) pe jayen, apni repo select karein, aur wahan se generate hone wala `<script>` tag copy karein
+3. Us script ko README ke is section me paste kar dein — phir visitors seedha README ke neeche comment kar sakenge
+
+```html
+<!-- Giscus script yahan paste karein jab setup ho jaye -->
+```
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="ascii"></a>
+<!-- ASCII BANNER -->
+<div align="center">
+
+```
+   ___          __              __   _____ __          __    _     __
+  / _ | __ __  / /_ __ _ ___ _ / /  / ___// /  ___ _   / /   (_)___/ /
+ / __ | \ \ / / __ ヽ`  ' / _ `// _ \/___ \/ _ \/ _ `/  / _ \ / // _  /
+/_/ |_|/_\_\  \__/_/ /_/\_,_/_//_/____/_//_/\_,_/  /_//_//_/ \_,_/
+
+        M U L T A N   ·   P A K I S T A N   🇵🇰
+```
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="changelog"></a>
+<!-- CHANGELOG -->
+<h2 align="center"><img src="https://media.giphy.com/media/j2pOGeGpOvzQAlLD4A/giphy.gif" width="40"> README Changelog</h2>
+
+<div align="center">
+
+| Version | Date | Changes |
+|:---:|:---:|:---|
+| v1.0 | April 2025 | Initial README with badges, stats, tech stack, video |
+| v1.1 | Sep 2026 | Fixed broken image links (mixed-content http→https), fixed dead Heroku streak-stats link, fixed video repo-path links |
+| v1.2 | Sep 2026 | Added Random Quote widget, Coding Profile Stats, 3D Contribution setup, GitHub Achievements button |
+| v1.3 | Sep 2026 | Added Blog Posts auto-list, Visitor Counter, video button fix (separate watch/download) |
+| v1.4 | Sep 2026 | Added Table of Contents, Learning Roadmap, Certifications, expanded Featured Projects, Full Badge Wall, FAQ, Testimonials, Star History, Weekly Coding Activity, Community platforms, Sponsors, Dev Journey timeline, Problem Solving stats, Guestbook, Changelog & License |
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="license"></a>
+<!-- LICENSE -->
+<h2 align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40"> License</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="MIT License"/>
+
+<p>Ye README template MIT License ke tehat free hai use/copy/modify karne ke liye — bas credit dena mat bhoolna! 🙌</p>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="calendar-themes"></a>
+<!-- CONTRIBUTION CALENDAR THEMES -->
+<h2 align="center"><img src="https://media.giphy.com/media/j2pOGeGpOvzQAlLD4A/giphy.gif" width="40"> Contribution Calendar (More Themes)</h2>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadansari1942&bg_color=ffffff&color=6e5494&line=6e5494&point=ff6b6b&hide_border=true&theme=minimal" alt="Minimal Graph"/>
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadansari1942&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=92fe9d&hide_border=true&theme=react-dark" alt="React Dark Graph"/>
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadansari1942&bg_color=0d1117&color=f7df1e&line=f7df1e&point=ffffff&hide_border=true&theme=github-compact" alt="Compact Graph"/>
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="ai-workflow"></a>
+<!-- AI TOOLS WORKFLOW -->
+<h2 align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40"> How I Use AI in My Workflow</h2>
+
+<div align="center">
+
+| Task | AI Tool | Purpose |
+|:---|:---:|:---|
+| Code review & debugging | Claude / ChatGPT | Spot bugs, understand errors faster |
+| Learning new concepts | Claude / ChatGPT | Simplified explanations |
+| Writing documentation | Claude | Drafting README & comments |
+| Boilerplate code | GitHub Copilot | Speed up repetitive code |
+| Image generation | Various AI tools | Placeholder graphics for projects |
+
+<sub>🤖 AI mera "helper" hai, replacement nahi — final code samajhna aur likhna khud seekhta hoon.</sub>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="announcements"></a>
+<!-- ANNOUNCEMENTS -->
+<h2 align="center"><img src="https://media.giphy.com/media/3oz8xIsloV320wMOA0/giphy.gif" width="40"> Announcements 📢</h2>
+
+<div align="center">
+
+> 🆕 **Sep 2026:** README completely revamped — fixed all broken links and added tons of new sections!
+
+> 🔜 **Coming soon:** More real projects, live coding stats, and a personal portfolio website.
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
+<a name="footer"></a>
 <!-- FOOTER -->
 <div align="center">
 
@@ -771,9 +1941,17 @@ jobs:
 
 ### 💌 Get in Touch
 
-📧 **Email:** sn0259152@gmail.com  
-💬 **Telegram:** @Ahmadansari191  
-🌐 **Location:** Multan, Pakistan 🇵🇰  
+| Platform | Handle / Info |
+|:---|:---|
+| 📧 Email | sn0259152@gmail.com |
+| ✉️ Alt Email | ahmadshahid.dev@gmail.com |
+| 💬 Telegram | [@Ahmadansari191](https://t.me/Ahmadansari191) |
+| 📸 Instagram | [@ahmadansari7805](https://instagram.com/ahmadansari7805) |
+| 📘 Facebook | [Ahmadansari19](https://www.facebook.com/Ahmadansari19) |
+| 🐙 GitHub | [Ahmadansari1942](https://github.com/Ahmadansari1942) |
+| 🌐 Location | Multan, Pakistan 🇵🇰 |
+| 🕐 Timezone | PKT (UTC+5) |
+| 💼 Availability | Open to collaboration, learning partnerships & entry-level opportunities |
 
 <br><br>
 
