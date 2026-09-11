@@ -1744,6 +1744,31 @@ jobs:
 
 ---
 
+<a name="thank-you-note"></a>
+<!-- THANK YOU NOTE -->
+<h2 align="center"><img src="https://media.giphy.com/media/fYSnHlufseco8Jv4eJ/giphy.gif" width="40"> A Small Thank You</h2>
+
+<div align="center">
+
+<p>Agar aap ne itna neeche tak scroll kiya hai, sach me shukriya! 🙏 Ye README banate waqt maksad sirf ye tha ke visitors ko ye pata chal jaye ke main kya seekh raha hoon, kya bana raha hoon, aur mujhse kaise connect kiya ja sakta hai.</p>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">📖<br/><sub><b>Always Reading</b></sub></td>
+<td align="center" width="25%">💻<br/><sub><b>Always Building</b></sub></td>
+<td align="center" width="25%">🤝<br/><sub><b>Always Open</b></sub></td>
+<td align="center" width="25%">🚀<br/><sub><b>Always Growing</b></sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+---
+
 <a name="tools-recommend"></a>
 <!-- RECOMMENDED TOOLS -->
 <h2 align="center"><img src="https://media.giphy.com/media/3oz8xIsloV320wMOA0/giphy.gif" width="40"> Tools I Recommend</h2>
